@@ -1,2 +1,4 @@
+
 ## Starting up the application
-    - Use streamlit run main.py      
+    # Use the command below to start the application  
+        -  > streamlit run main.py   
